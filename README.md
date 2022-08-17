@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jason (aka @FiniteLo0p).
 - 👀 I’m interested in strengthening and polishing my development skills.
-- 🌱 I’m going to be taking a data structures class during the upcoming fall (2022) at university and the last two semesters focused on programming in Python.
-- 💞️ I’m looking to collaborate on any projects that will have me and help me grow.
+- 🌱 I’m currently working on my Python skills after taking two recent programming courses in college. 
+- 💞️ I’m looking to collaborate on any projects that will help me grow.
 - 📫 Feel free to reach out if you would like some assistance or have any questions.
 
 <!---
