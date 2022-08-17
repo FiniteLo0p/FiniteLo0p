@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FiniteLo0p
+- 👋 Hi, I’m Jason (aka @FiniteLo0p).
 - 👀 I’m interested in strengthening and polishing my development skills.
 - 🌱 I’m going to be taking a data structures class during the upcoming fall (2022) at university and the last two semesters focused on programming in Python.
 - 💞️ I’m looking to collaborate on any projects that will have me and help me grow.
